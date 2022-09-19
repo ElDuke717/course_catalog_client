@@ -1,5 +1,5 @@
 const Config = {
-  apiBaseUrl: 'http://localhost:5000/api',
+  apiBaseUrl: 'https://course-catalog-api91922.herokuapp.com/api'
 };
 
 export default Config
